@@ -1,0 +1,748 @@
+2025-02-07 20:05:48,175 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 20:05:48,176 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 20:05:50,389 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 20:05:50,885 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 20:05:51,581 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 20:05:52,251 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 20:05:53,031 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 20:05:53,734 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 20:05:54,213 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 20:05:54,693 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 20:05:55,494 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 20:05:56,045 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 20:05:56,463 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 20:05:56,888 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 20:05:57,540 - INFO - \U0001f4cc Scraping r/bannedknowledge...
+2025-02-07 20:05:57,812 - ERROR - \u26a0\ufe0f Error scraping r/bannedknowledge: Redirect to /subreddits/search
+2025-02-07 20:05:57,812 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 20:05:58,588 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 20:05:59,114 - INFO - \U0001f4cc Scraping r/mindcontrol...
+2025-02-07 20:05:59,443 - ERROR - \u26a0\ufe0f Error scraping r/mindcontrol: received 404 HTTP response
+2025-02-07 20:05:59,443 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 20:06:00,148 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 20:06:00,604 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 20:06:01,045 - INFO - \U0001f4cc Scraping r/dimensionaltravel...
+2025-02-07 20:06:01,392 - ERROR - \u26a0\ufe0f Error scraping r/dimensionaltravel: Redirect to /subreddits/search
+2025-02-07 20:06:01,392 - INFO - \U0001f4cc Scraping r/time travel...
+2025-02-07 20:06:01,725 - ERROR - \u26a0\ufe0f Error scraping r/time travel: received 404 HTTP response
+2025-02-07 20:06:01,725 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 20:06:02,213 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 20:06:02,660 - INFO - \U0001f4cc Scraping r/zero-point-energy...
+2025-02-07 20:06:02,946 - ERROR - \u26a0\ufe0f Error scraping r/zero-point-energy: Redirect to /subreddits/search
+2025-02-07 20:06:02,946 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 20:06:03,973 - INFO - \U0001f4cc Scraping r/prehistory...
+2025-02-07 20:06:04,451 - ERROR - \u26a0\ufe0f Error scraping r/prehistory: received 403 HTTP response
+2025-02-07 20:06:04,451 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 20:06:05,135 - INFO - \U0001f4cc Scraping r/SumerianKnowledge...
+2025-02-07 20:06:05,416 - ERROR - \u26a0\ufe0f Error scraping r/SumerianKnowledge: Redirect to /subreddits/search
+2025-02-07 20:06:05,416 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 20:06:06,212 - INFO - \U0001f4cc Scraping r/Yeti...
+2025-02-07 20:06:06,533 - ERROR - \u26a0\ufe0f Error scraping r/Yeti: received 404 HTTP response
+2025-02-07 20:06:06,533 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 20:06:07,013 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 20:06:08,293 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 20:06:08,814 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 20:06:09,413 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 20:06:09,892 - INFO - \U0001f4cc Scraping r/MokeleMbembe...
+2025-02-07 20:06:10,211 - ERROR - \u26a0\ufe0f Error scraping r/MokeleMbembe: Redirect to /subreddits/search
+2025-02-07 20:06:12,783 - INFO - \u2705 Reddit data saved to Google Sheets.
+2025-02-07 20:06:12,783 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 20:06:12,784 - INFO - Retrieving scroll page None
+2025-02-07 20:06:12,784 - INFO - Retrieving guest token
+2025-02-07 20:06:12,785 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:13,411 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:13,412 - INFO - Waiting 1 seconds
+2025-02-07 20:06:14,413 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:14,904 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:14,904 - INFO - Waiting 2 seconds
+2025-02-07 20:06:16,904 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:17,573 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:17,573 - INFO - Waiting 4 seconds
+2025-02-07 20:06:21,573 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:22,001 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:22,001 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:22,001 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:22,001 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:22,001 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 20:06:22,002 - INFO - Retrieving scroll page None
+2025-02-07 20:06:22,002 - INFO - Retrieving guest token
+2025-02-07 20:06:22,003 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:22,532 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:22,532 - INFO - Waiting 1 seconds
+2025-02-07 20:06:23,532 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:23,964 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:23,964 - INFO - Waiting 2 seconds
+2025-02-07 20:06:25,965 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:26,531 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:26,531 - INFO - Waiting 4 seconds
+2025-02-07 20:06:30,533 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:31,012 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:31,012 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:31,012 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:31,012 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:31,012 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 20:06:31,013 - INFO - Retrieving scroll page None
+2025-02-07 20:06:31,013 - INFO - Retrieving guest token
+2025-02-07 20:06:31,013 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:31,652 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:31,653 - INFO - Waiting 1 seconds
+2025-02-07 20:06:32,653 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:33,160 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:33,160 - INFO - Waiting 2 seconds
+2025-02-07 20:06:35,162 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:35,644 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:35,644 - INFO - Waiting 4 seconds
+2025-02-07 20:06:39,646 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:40,076 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:40,076 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:40,076 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:40,076 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:40,077 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 20:06:40,077 - INFO - Retrieving scroll page None
+2025-02-07 20:06:40,077 - INFO - Retrieving guest token
+2025-02-07 20:06:40,078 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:40,494 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:40,494 - INFO - Waiting 1 seconds
+2025-02-07 20:06:41,496 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:42,055 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:42,056 - INFO - Waiting 2 seconds
+2025-02-07 20:06:44,057 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:44,611 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:44,611 - INFO - Waiting 4 seconds
+2025-02-07 20:06:48,612 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:49,251 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:49,251 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:49,251 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:49,251 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:49,251 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 20:06:49,252 - INFO - Retrieving scroll page None
+2025-02-07 20:06:49,252 - INFO - Retrieving guest token
+2025-02-07 20:06:49,253 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:49,891 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:49,892 - INFO - Waiting 1 seconds
+2025-02-07 20:06:50,893 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:51,491 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:51,491 - INFO - Waiting 2 seconds
+2025-02-07 20:06:53,492 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:53,924 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 20:06:53,924 - INFO - Waiting 4 seconds
+2025-02-07 20:06:57,925 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 20:06:58,531 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:58,531 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:06:58,531 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 20:06:58,531 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 20:07:00,259 - INFO - \u2705 Twitter data saved to Google Sheets.
+2025-02-07 20:07:00,260 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 20:07:01,094 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 20:07:04,631 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 20:07:06,585 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 20:07:07,294 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 20:07:07,581 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 20:07:07,696 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 20:07:08,807 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 20:07:11,491 - INFO - \u2705 News data saved to Google Sheets.
+2025-02-07 20:07:11,494 - INFO - \U0001f310 Scraping forum: https://www.abovetopsecret.com/
+2025-02-07 20:07:12,636 - INFO - \U0001f310 Scraping forum: https://www.theblackvault.com/
+2025-02-07 20:07:13,634 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/UFOs/
+2025-02-07 20:07:14,924 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/conspiracy/
+2025-02-07 20:07:16,039 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/HighStrangeness/
+2025-02-07 20:07:18,850 - INFO - \u2705 Forum data saved to Google Sheets.
+2025-02-07 20:07:21,927 - ERROR - \u274c Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2fa22ae7b70sm1284528a91.31 - gsmtp')
+2025-02-07 20:07:21,928 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 20:11:44,049 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 20:11:44,050 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 20:11:45,736 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 20:11:46,306 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 20:11:47,013 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 20:11:47,973 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 20:11:48,934 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 20:11:49,894 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 20:11:50,375 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 20:11:50,852 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 20:11:51,653 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 20:11:52,813 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 20:11:53,233 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 20:11:53,666 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 20:11:54,372 - INFO - \U0001f4cc Scraping r/bannedknowledge...
+2025-02-07 20:11:54,691 - ERROR - \u26a0\ufe0f Error scraping r/bannedknowledge: Redirect to /subreddits/search
+2025-02-07 20:11:54,691 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 20:11:55,171 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 20:11:55,666 - INFO - \U0001f4cc Scraping r/mindcontrol...
+2025-02-07 20:11:56,130 - ERROR - \u26a0\ufe0f Error scraping r/mindcontrol: received 404 HTTP response
+2025-02-07 20:11:56,130 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 20:11:56,634 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 20:11:57,083 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 20:11:57,576 - INFO - \U0001f4cc Scraping r/dimensionaltravel...
+2025-02-07 20:11:57,890 - ERROR - \u26a0\ufe0f Error scraping r/dimensionaltravel: Redirect to /subreddits/search
+2025-02-07 20:11:57,890 - INFO - \U0001f4cc Scraping r/time travel...
+2025-02-07 20:11:58,227 - ERROR - \u26a0\ufe0f Error scraping r/time travel: received 404 HTTP response
+2025-02-07 20:11:58,227 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 20:11:58,703 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 20:11:59,169 - INFO - \U0001f4cc Scraping r/zero-point-energy...
+2025-02-07 20:11:59,463 - ERROR - \u26a0\ufe0f Error scraping r/zero-point-energy: Redirect to /subreddits/search
+2025-02-07 20:11:59,464 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 20:12:00,361 - INFO - \U0001f4cc Scraping r/prehistory...
+2025-02-07 20:12:00,719 - ERROR - \u26a0\ufe0f Error scraping r/prehistory: received 403 HTTP response
+2025-02-07 20:12:00,719 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 20:12:01,526 - INFO - \U0001f4cc Scraping r/SumerianKnowledge...
+2025-02-07 20:12:01,803 - ERROR - \u26a0\ufe0f Error scraping r/SumerianKnowledge: Redirect to /subreddits/search
+2025-02-07 20:12:01,803 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 20:12:02,474 - INFO - \U0001f4cc Scraping r/Yeti...
+2025-02-07 20:12:02,795 - ERROR - \u26a0\ufe0f Error scraping r/Yeti: received 404 HTTP response
+2025-02-07 20:12:02,795 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 20:12:03,203 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 20:12:03,675 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 20:12:04,197 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 20:12:04,712 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 20:12:05,144 - INFO - \U0001f4cc Scraping r/MokeleMbembe...
+2025-02-07 20:12:05,416 - ERROR - \u26a0\ufe0f Error scraping r/MokeleMbembe: Redirect to /subreddits/search
+2025-02-07 20:12:07,372 - INFO - \u2705 Reddit data saved to Google Sheets.
+2025-02-07 20:12:07,373 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 20:12:07,373 - WARNING - Unexpected parameter: since
+2025-02-07 20:12:08,285 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:12:08,286 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 20:12:08,286 - WARNING - Unexpected parameter: since
+2025-02-07 20:12:09,068 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:12:09,068 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 20:12:09,068 - WARNING - Unexpected parameter: since
+2025-02-07 20:12:09,926 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:12:09,927 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 20:12:09,927 - WARNING - Unexpected parameter: since
+2025-02-07 20:12:10,637 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:12:10,637 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 20:12:10,637 - WARNING - Unexpected parameter: since
+2025-02-07 20:12:11,355 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:12:12,602 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 20:12:14,349 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 20:12:17,946 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 20:12:19,861 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 20:12:20,771 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 20:12:21,043 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 20:12:21,161 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 20:12:22,254 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 20:12:24,704 - INFO - \u2705 News data saved to Google Sheets.
+2025-02-07 20:12:24,705 - INFO - \U0001f310 Scraping forum: https://www.abovetopsecret.com/
+2025-02-07 20:12:25,915 - INFO - \U0001f310 Scraping forum: https://www.theblackvault.com/
+2025-02-07 20:12:27,175 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/UFOs/
+2025-02-07 20:12:28,415 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/conspiracy/
+2025-02-07 20:12:29,491 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/HighStrangeness/
+2025-02-07 20:12:32,295 - INFO - \u2705 Forum data saved to Google Sheets.
+2025-02-07 20:12:32,295 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 20:19:19,892 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 20:19:19,893 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 20:19:21,733 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 20:19:22,208 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 20:19:22,915 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 20:19:23,594 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 20:19:24,292 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 20:19:24,943 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 20:19:25,397 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 20:19:25,891 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 20:19:26,692 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 20:19:27,230 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 20:19:27,634 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 20:19:28,131 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 20:19:28,611 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 20:19:28,999 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 20:19:29,576 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 20:19:30,251 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 20:19:30,851 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 20:19:31,331 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 20:19:31,811 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 20:19:32,192 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 20:19:33,085 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 20:19:33,740 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 20:19:34,532 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 20:19:35,016 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 20:19:35,491 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 20:19:35,976 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 20:19:36,611 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 20:19:39,169 - INFO - \u2705 Reddit data saved to Google Sheets.
+2025-02-07 20:19:39,170 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 20:19:39,170 - WARNING - Unexpected parameter: since
+2025-02-07 20:19:40,037 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:19:40,037 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 20:19:40,037 - WARNING - Unexpected parameter: since
+2025-02-07 20:19:40,816 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:19:40,816 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 20:19:40,817 - WARNING - Unexpected parameter: since
+2025-02-07 20:19:41,554 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:19:41,554 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 20:19:41,554 - WARNING - Unexpected parameter: since
+2025-02-07 20:19:42,307 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:19:42,307 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 20:19:42,307 - WARNING - Unexpected parameter: since
+2025-02-07 20:19:43,052 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:19:44,290 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 20:19:46,056 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 20:19:49,573 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 20:19:51,502 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 20:19:52,352 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 20:19:52,567 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 20:19:52,681 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 20:19:53,892 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 20:19:57,227 - INFO - \u2705 News data saved to Google Sheets.
+2025-02-07 20:19:57,228 - INFO - \U0001f310 Scraping forum: https://www.abovetopsecret.com/
+2025-02-07 20:19:58,381 - INFO - \U0001f310 Scraping forum: https://www.theblackvault.com/
+2025-02-07 20:19:59,398 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/UFOs/
+2025-02-07 20:20:01,389 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/conspiracy/
+2025-02-07 20:20:02,811 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/HighStrangeness/
+2025-02-07 20:20:05,729 - INFO - \u2705 Forum data saved to Google Sheets.
+2025-02-07 20:20:05,730 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 20:25:51,070 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 20:25:51,070 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 20:25:52,932 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 20:25:53,456 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 20:25:54,210 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 20:25:54,867 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 20:25:55,810 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 20:25:56,451 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 20:25:57,267 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 20:25:57,706 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 20:25:58,177 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 20:25:58,691 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 20:25:59,172 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 20:25:59,969 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 20:26:00,637 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 20:26:01,090 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 20:26:01,566 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 20:26:02,232 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 20:26:02,707 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 20:26:03,171 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 20:26:03,613 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 20:26:04,129 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 20:26:05,037 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 20:26:05,730 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 20:26:06,252 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 20:26:06,690 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 20:26:07,179 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 20:26:07,677 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 20:26:08,193 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 20:26:10,688 - INFO - \u2705 Reddit data saved to Google Sheets.
+2025-02-07 20:26:10,689 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 20:26:10,689 - WARNING - Unexpected parameter: since
+2025-02-07 20:26:11,500 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:26:11,500 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 20:26:11,500 - WARNING - Unexpected parameter: since
+2025-02-07 20:26:12,265 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:26:12,265 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 20:26:12,265 - WARNING - Unexpected parameter: since
+2025-02-07 20:26:13,016 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:26:13,016 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 20:26:13,016 - WARNING - Unexpected parameter: since
+2025-02-07 20:26:13,736 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:26:13,736 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 20:26:13,736 - WARNING - Unexpected parameter: since
+2025-02-07 20:26:14,529 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 401 Unauthorized
+89 - Invalid or expired token.
+2025-02-07 20:26:15,677 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 20:26:16,533 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 20:26:20,044 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 20:26:22,039 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 20:26:22,828 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 20:26:23,038 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 20:26:23,189 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 20:26:24,233 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 20:26:27,325 - INFO - \u2705 News data saved to Google Sheets.
+2025-02-07 20:26:27,326 - INFO - \U0001f310 Scraping forum: https://www.abovetopsecret.com/
+2025-02-07 20:26:28,486 - INFO - \U0001f310 Scraping forum: https://www.theblackvault.com/
+2025-02-07 20:26:29,408 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/UFOs/
+2025-02-07 20:26:31,492 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/conspiracy/
+2025-02-07 20:26:32,800 - INFO - \U0001f310 Scraping forum: https://www.reddit.com/r/HighStrangeness/
+2025-02-07 20:26:36,495 - INFO - \u2705 Forum data saved to Google Sheets.
+2025-02-07 20:26:36,496 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 21:19:36,621 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 21:19:36,622 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 21:19:38,314 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 21:19:38,871 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 21:19:39,591 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 21:19:40,268 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 21:19:41,266 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 21:19:41,935 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 21:19:42,389 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 21:19:42,845 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 21:19:43,629 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 21:19:44,150 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 21:19:44,551 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 21:19:45,011 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 21:19:45,682 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 21:19:46,157 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 21:19:46,707 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 21:19:47,398 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 21:19:47,817 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 21:19:48,273 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 21:19:48,792 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 21:19:49,196 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 21:19:50,227 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 21:19:50,892 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 21:19:51,567 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 21:19:52,019 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 21:19:52,473 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 21:19:52,941 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 21:19:53,450 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 21:19:56,468 - INFO - \u2705 Reddit data saved to Google Sheets.
+2025-02-07 21:19:56,469 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 21:19:56,470 - INFO - Retrieving scroll page None
+2025-02-07 21:19:56,470 - INFO - Retrieving guest token
+2025-02-07 21:19:56,472 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:19:56,927 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:19:56,927 - INFO - Waiting 1 seconds
+2025-02-07 21:19:57,928 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:19:58,366 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:19:58,366 - INFO - Waiting 2 seconds
+2025-02-07 21:20:00,368 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:00,837 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:00,837 - INFO - Waiting 4 seconds
+2025-02-07 21:20:04,838 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:05,272 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:05,272 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:05,272 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:05,272 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:05,272 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 21:20:05,273 - INFO - Retrieving scroll page None
+2025-02-07 21:20:05,273 - INFO - Retrieving guest token
+2025-02-07 21:20:05,273 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:05,704 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:05,704 - INFO - Waiting 1 seconds
+2025-02-07 21:20:06,706 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:07,190 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:07,190 - INFO - Waiting 2 seconds
+2025-02-07 21:20:09,191 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:09,747 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:09,747 - INFO - Waiting 4 seconds
+2025-02-07 21:20:13,748 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:14,148 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:14,148 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:14,148 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:14,148 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:14,148 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 21:20:14,149 - INFO - Retrieving scroll page None
+2025-02-07 21:20:14,149 - INFO - Retrieving guest token
+2025-02-07 21:20:14,150 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:14,594 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:14,594 - INFO - Waiting 1 seconds
+2025-02-07 21:20:15,596 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:16,010 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:16,010 - INFO - Waiting 2 seconds
+2025-02-07 21:20:18,012 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:18,434 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:18,434 - INFO - Waiting 4 seconds
+2025-02-07 21:20:22,436 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:22,870 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:22,871 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:22,871 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:22,871 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:22,871 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 21:20:22,872 - INFO - Retrieving scroll page None
+2025-02-07 21:20:22,872 - INFO - Retrieving guest token
+2025-02-07 21:20:22,872 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:23,392 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:23,392 - INFO - Waiting 1 seconds
+2025-02-07 21:20:24,394 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:24,829 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:24,829 - INFO - Waiting 2 seconds
+2025-02-07 21:20:26,830 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:27,258 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:27,258 - INFO - Waiting 4 seconds
+2025-02-07 21:20:31,260 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:31,669 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:31,669 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:31,669 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:31,670 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:31,670 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 21:20:31,672 - INFO - Retrieving scroll page None
+2025-02-07 21:20:31,672 - INFO - Retrieving guest token
+2025-02-07 21:20:31,673 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:32,090 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:32,090 - INFO - Waiting 1 seconds
+2025-02-07 21:20:33,092 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:33,588 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:33,588 - INFO - Waiting 2 seconds
+2025-02-07 21:20:35,588 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:36,019 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:20:36,019 - INFO - Waiting 4 seconds
+2025-02-07 21:20:40,021 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:20:40,517 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:40,517 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:40,517 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:20:40,517 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:20:42,468 - INFO - \u2705 Twitter data saved to Google Sheets.
+2025-02-07 21:20:42,469 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 21:20:43,305 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 21:20:46,557 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 21:20:48,372 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 21:20:49,083 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 21:20:49,348 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 21:20:49,508 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 21:20:50,647 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 21:20:52,878 - INFO - \u2705 News data saved to Google Sheets.
+2025-02-07 21:20:56,029 - ERROR - \u274c Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f9e1e3f394sm5334125a91.40 - gsmtp')
+2025-02-07 21:20:56,029 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 21:23:03,255 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 21:23:03,256 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 21:23:04,980 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 21:23:05,595 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 21:23:06,394 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 21:23:07,065 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 21:23:07,719 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 21:23:08,476 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 21:23:08,955 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 21:23:09,392 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 21:23:10,099 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 21:23:10,713 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 21:23:11,146 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 21:23:11,675 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 21:23:12,469 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 21:23:12,954 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 21:23:13,595 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 21:23:14,273 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 21:23:14,853 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 21:23:15,295 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 21:23:15,721 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 21:23:16,159 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 21:23:17,035 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 21:23:17,898 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 21:23:18,585 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 21:23:19,021 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 21:23:19,515 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 21:23:20,005 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 21:23:20,496 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 21:23:21,914 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:23:21,914 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 21:23:21,915 - INFO - Retrieving scroll page None
+2025-02-07 21:23:21,915 - INFO - Retrieving guest token
+2025-02-07 21:23:21,916 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:22,447 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:22,447 - INFO - Waiting 1 seconds
+2025-02-07 21:23:23,450 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:23,868 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:23,868 - INFO - Waiting 2 seconds
+2025-02-07 21:23:25,868 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:26,394 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:26,394 - INFO - Waiting 4 seconds
+2025-02-07 21:23:30,396 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:30,875 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:30,875 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:30,875 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:30,875 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:30,875 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 21:23:30,876 - INFO - Retrieving scroll page None
+2025-02-07 21:23:30,876 - INFO - Retrieving guest token
+2025-02-07 21:23:30,877 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:31,355 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:31,355 - INFO - Waiting 1 seconds
+2025-02-07 21:23:32,356 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:32,808 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:32,808 - INFO - Waiting 2 seconds
+2025-02-07 21:23:34,809 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:35,261 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:35,261 - INFO - Waiting 4 seconds
+2025-02-07 21:23:39,263 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:39,748 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:39,748 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:39,748 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:39,748 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:39,748 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 21:23:39,749 - INFO - Retrieving scroll page None
+2025-02-07 21:23:39,749 - INFO - Retrieving guest token
+2025-02-07 21:23:39,750 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:40,168 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:40,168 - INFO - Waiting 1 seconds
+2025-02-07 21:23:41,169 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:41,755 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:41,755 - INFO - Waiting 2 seconds
+2025-02-07 21:23:43,756 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:44,298 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:44,298 - INFO - Waiting 4 seconds
+2025-02-07 21:23:48,299 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:48,956 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:48,956 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:48,956 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:48,956 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:48,956 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 21:23:48,956 - INFO - Retrieving scroll page None
+2025-02-07 21:23:48,957 - INFO - Retrieving guest token
+2025-02-07 21:23:48,957 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:49,509 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:49,509 - INFO - Waiting 1 seconds
+2025-02-07 21:23:50,509 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:51,035 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:51,035 - INFO - Waiting 2 seconds
+2025-02-07 21:23:53,036 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:53,595 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:53,595 - INFO - Waiting 4 seconds
+2025-02-07 21:23:57,597 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:58,076 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:58,076 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:58,076 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:23:58,076 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:23:58,076 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 21:23:58,077 - INFO - Retrieving scroll page None
+2025-02-07 21:23:58,077 - INFO - Retrieving guest token
+2025-02-07 21:23:58,077 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:23:58,715 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:23:58,715 - INFO - Waiting 1 seconds
+2025-02-07 21:23:59,717 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:24:00,156 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:24:00,156 - INFO - Waiting 2 seconds
+2025-02-07 21:24:02,159 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:24:02,720 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:24:02,720 - INFO - Waiting 4 seconds
+2025-02-07 21:24:06,722 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:24:07,334 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:24:07,334 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:24:07,334 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:24:07,334 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:24:08,315 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:24:08,316 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 21:24:10,088 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 21:24:13,297 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 21:24:15,217 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 21:24:15,944 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 21:24:16,183 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 21:24:16,289 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 21:24:17,292 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 21:24:19,515 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:24:21,947 - ERROR - \u274c Failed to send email report: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21f368afde8sm28067115ad.223 - gsmtp')
+2025-02-07 21:24:21,947 - INFO - \u2705 MajesticBot12 script completed.
+2025-02-07 21:41:28,802 - INFO - \U0001f680 Starting MajesticBot12 script...
+2025-02-07 21:41:28,802 - INFO - \U0001f4cc Scraping r/UFOs...
+2025-02-07 21:41:30,370 - INFO - \U0001f4cc Scraping r/cryptozoology...
+2025-02-07 21:41:30,944 - INFO - \U0001f4cc Scraping r/paranormal...
+2025-02-07 21:41:31,676 - INFO - \U0001f4cc Scraping r/ancientaliens...
+2025-02-07 21:41:32,325 - INFO - \U0001f4cc Scraping r/lostcivilizations...
+2025-02-07 21:41:33,223 - INFO - \U0001f4cc Scraping r/ancientastronauts...
+2025-02-07 21:41:34,076 - INFO - \U0001f4cc Scraping r/spirituality...
+2025-02-07 21:41:34,525 - INFO - \U0001f4cc Scraping r/psychic...
+2025-02-07 21:41:34,997 - INFO - \U0001f4cc Scraping r/telekinesis...
+2025-02-07 21:41:35,748 - INFO - \U0001f4cc Scraping r/alchemy...
+2025-02-07 21:41:36,295 - INFO - \U0001f4cc Scraping r/magic...
+2025-02-07 21:41:36,713 - INFO - \U0001f4cc Scraping r/occult...
+2025-02-07 21:41:37,166 - INFO - \U0001f4cc Scraping r/esotericism...
+2025-02-07 21:41:37,948 - INFO - \U0001f4cc Scraping r/herbology...
+2025-02-07 21:41:38,427 - INFO - \U0001f4cc Scraping r/sacredplants...
+2025-02-07 21:41:38,917 - INFO - \U0001f4cc Scraping r/psionics...
+2025-02-07 21:41:39,602 - INFO - \U0001f4cc Scraping r/remoteviewing...
+2025-02-07 21:41:40,191 - INFO - \U0001f4cc Scraping r/twinflames...
+2025-02-07 21:41:40,658 - INFO - \U0001f4cc Scraping r/mysticism...
+2025-02-07 21:41:41,071 - INFO - \U0001f4cc Scraping r/spontaneouscombustion...
+2025-02-07 21:41:41,476 - INFO - \U0001f4cc Scraping r/extraterrestrials...
+2025-02-07 21:41:42,431 - INFO - \U0001f4cc Scraping r/Atlantis...
+2025-02-07 21:41:43,279 - INFO - \U0001f4cc Scraping r/Wendigo...
+2025-02-07 21:41:43,956 - INFO - \U0001f4cc Scraping r/Bigfoot...
+2025-02-07 21:41:44,384 - INFO - \U0001f4cc Scraping r/LochNessMonster...
+2025-02-07 21:41:44,831 - INFO - \U0001f4cc Scraping r/Chupacabra...
+2025-02-07 21:41:45,461 - INFO - \U0001f4cc Scraping r/JerseyDevil...
+2025-02-07 21:41:46,000 - INFO - \U0001f4cc Scraping r/Thunderbird...
+2025-02-07 21:41:47,552 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:41:47,552 - INFO - \U0001f426 Searching Twitter for: UFO
+2025-02-07 21:41:47,554 - INFO - Retrieving scroll page None
+2025-02-07 21:41:47,554 - INFO - Retrieving guest token
+2025-02-07 21:41:47,555 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:48,027 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:41:48,027 - INFO - Waiting 1 seconds
+2025-02-07 21:41:49,029 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:49,540 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:41:49,540 - INFO - Waiting 2 seconds
+2025-02-07 21:41:51,543 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:51,989 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:41:51,989 - INFO - Waiting 4 seconds
+2025-02-07 21:41:55,991 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:56,420 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:41:56,420 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:41:56,420 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:41:56,420 - ERROR - \u26a0\ufe0f Error scraping Twitter for UFO: 4 requests to https://twitter.com/search?f=live&lang=en&q=UFO+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:41:56,420 - INFO - \U0001f426 Searching Twitter for: aliens
+2025-02-07 21:41:56,421 - INFO - Retrieving scroll page None
+2025-02-07 21:41:56,421 - INFO - Retrieving guest token
+2025-02-07 21:41:56,422 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:56,874 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:41:56,874 - INFO - Waiting 1 seconds
+2025-02-07 21:41:57,877 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:41:58,302 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:41:58,302 - INFO - Waiting 2 seconds
+2025-02-07 21:42:00,304 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:00,946 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:00,946 - INFO - Waiting 4 seconds
+2025-02-07 21:42:04,948 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:05,381 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:05,382 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:05,382 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:05,382 - ERROR - \u26a0\ufe0f Error scraping Twitter for aliens: 4 requests to https://twitter.com/search?f=live&lang=en&q=aliens+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:05,382 - INFO - \U0001f426 Searching Twitter for: paranormal
+2025-02-07 21:42:05,382 - INFO - Retrieving scroll page None
+2025-02-07 21:42:05,383 - INFO - Retrieving guest token
+2025-02-07 21:42:05,383 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:05,820 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:05,820 - INFO - Waiting 1 seconds
+2025-02-07 21:42:06,822 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:07,265 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:07,265 - INFO - Waiting 2 seconds
+2025-02-07 21:42:09,266 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:09,787 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:09,788 - INFO - Waiting 4 seconds
+2025-02-07 21:42:13,789 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:14,215 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:14,215 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:14,215 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:14,215 - ERROR - \u26a0\ufe0f Error scraping Twitter for paranormal: 4 requests to https://twitter.com/search?f=live&lang=en&q=paranormal+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:14,216 - INFO - \U0001f426 Searching Twitter for: telekinesis
+2025-02-07 21:42:14,216 - INFO - Retrieving scroll page None
+2025-02-07 21:42:14,216 - INFO - Retrieving guest token
+2025-02-07 21:42:14,217 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:14,640 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:14,640 - INFO - Waiting 1 seconds
+2025-02-07 21:42:15,641 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:16,068 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:16,068 - INFO - Waiting 2 seconds
+2025-02-07 21:42:18,071 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:18,488 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:18,489 - INFO - Waiting 4 seconds
+2025-02-07 21:42:22,490 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:23,067 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:23,067 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:23,067 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:23,067 - ERROR - \u26a0\ufe0f Error scraping Twitter for telekinesis: 4 requests to https://twitter.com/search?f=live&lang=en&q=telekinesis+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:23,068 - INFO - \U0001f426 Searching Twitter for: zero-point energy
+2025-02-07 21:42:23,068 - INFO - Retrieving scroll page None
+2025-02-07 21:42:23,068 - INFO - Retrieving guest token
+2025-02-07 21:42:23,069 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:23,573 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:23,573 - INFO - Waiting 1 seconds
+2025-02-07 21:42:24,574 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:25,148 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:25,148 - INFO - Waiting 2 seconds
+2025-02-07 21:42:27,149 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:27,609 - INFO - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), retrying
+2025-02-07 21:42:27,609 - INFO - Waiting 4 seconds
+2025-02-07 21:42:31,611 - INFO - Retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click
+2025-02-07 21:42:32,078 - ERROR - Error retrieving https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:32,079 - CRITICAL - 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:32,079 - CRITICAL - Errors: SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))")), SSLError(MaxRetryError("HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"))
+2025-02-07 21:42:32,079 - ERROR - \u26a0\ufe0f Error scraping Twitter for zero-point energy: 4 requests to https://twitter.com/search?f=live&lang=en&q=zero-point+energy+since%3A2023-01-01&src=spelling_expansion_revert_click failed, giving up.
+2025-02-07 21:42:32,987 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:42:32,987 - INFO - \U0001f4f0 Scraping news site: https://www.space.com/news
+2025-02-07 21:42:33,968 - INFO - \U0001f4f0 Scraping news site: https://www.scientificamerican.com/space/
+2025-02-07 21:42:36,050 - INFO - \U0001f4f0 Scraping news site: https://www.nature.com/subjects/astronomy-and-astrophysics
+2025-02-07 21:42:37,995 - INFO - \U0001f4f0 Scraping news site: https://phys.org/space-news/
+2025-02-07 21:42:38,685 - INFO - \U0001f4f0 Scraping news site: https://www.livescience.com/space
+2025-02-07 21:42:39,174 - INFO - \U0001f4f0 Scraping news site: https://www.ancient-origins.net/
+2025-02-07 21:42:39,323 - INFO - \U0001f4f0 Scraping news site: https://www.nationalufocenter.com/
+2025-02-07 21:42:40,433 - INFO - \U0001f4f0 Scraping news site: https://www.mufon.com/
+2025-02-07 21:42:42,646 - ERROR - \u274c Error connecting to Google Sheets: <Response [404]>
+2025-02-07 21:42:44,986 - ERROR - \u274c Failed to send email report: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21f368b4fcasm28279985ad.230 - gsmtp')
+2025-02-07 21:42:44,986 - INFO - \u2705 MajesticBot12 script completed.

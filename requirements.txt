@@ -1,0 +1,11 @@
+praw
+requests
+beautifulsoup4
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+snscrape
+python-dotenv
+smtplib
+email

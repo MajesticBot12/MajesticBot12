@@ -1,0 +1,21 @@
+{
+    "reddit": {
+        "client_id": "aJMjjO9Zn1SMHVdAvtlkww",
+        "client_secret": "zoyi-xhOUmCBafT6e1d3dD8LU7IXEQ",
+        "user_agent": "MajesticBot12:v1.0 (by /u/MajesticBot12)",
+        "username": "MajesticBot12",
+        "password": "${REDDIT_PASSWORD}"
+    },
+    "google_drive": {
+        "client_secret_file": "client_secrets.json"
+    },
+    "email": {
+        "sender_email": "majesticbot12@gmail.com",
+        "app_password": "${EMAIL_APP_PASSWORD}",
+        "recipient_email": "nwlehmann@me.com"
+    },
+    "settings": {
+        "weekly_report": true,
+        "enable_logging": true
+    }
+}

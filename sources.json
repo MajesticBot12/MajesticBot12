@@ -1,0 +1,49 @@
+{
+    "subreddits": [
+        "UFOs",
+        "cryptozoology",
+        "paranormal",
+        "ancientaliens",
+        "lostcivilizations",
+        "ancientastronauts",
+        "spirituality",
+        "psychic",
+        "telekinesis",
+        "alchemy",
+        "magic",
+        "occult",
+        "esotericism",
+        "herbology",
+        "sacredplants",
+        "psionics",
+        "remoteviewing",
+        "twinflames",
+        "mysticism",
+        "spontaneouscombustion",
+        "extraterrestrials",
+        "Atlantis",
+        "Wendigo",
+        "Bigfoot",
+        "LochNessMonster",
+        "Chupacabra",
+        "JerseyDevil",
+        "Thunderbird"
+    ],
+    "news_sites": [
+        "https://www.space.com/news",
+        "https://www.scientificamerican.com/space/",
+        "https://www.nature.com/subjects/astronomy-and-astrophysics",
+        "https://phys.org/space-news/",
+        "https://www.livescience.com/space",
+        "https://www.ancient-origins.net/",
+        "https://www.nationalufocenter.com/",
+        "https://www.mufon.com/"
+    ],
+    "forums": [
+        "https://www.abovetopsecret.com/",
+        "https://www.theblackvault.com/",
+        "https://www.reddit.com/r/UFOs/",
+        "https://www.reddit.com/r/conspiracy/",
+        "https://www.reddit.com/r/HighStrangeness/"
+    ]
+}
